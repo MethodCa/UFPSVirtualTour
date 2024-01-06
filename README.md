@@ -7,7 +7,8 @@ The App was developed with Unity3D 4.5 and used Microsoft Kinect as an input dev
 
 The app and thesis document awarded me an Honours degree and was used to start the first video games and interactive media research lab at the Universidad Francisco de Paula Santander.
 
-
+> [!NOTE]
+> Make sure Microsoft Kinect runtime is installed if kinect is used: https://www.microsoft.com/en-ca/download/details.aspx?id=44559
 > [!IMPORTANT]
 > The app works in Windows only due to the deprecation of OpenGL in the OSX build.
 > [^1]: Zigfu Framework, a key element to capture and decode motion gestures: https://github.com/zigfu
