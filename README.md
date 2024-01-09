@@ -12,6 +12,6 @@ The app and thesis document awarded me an Honours degree and was used to start t
 
 > [!IMPORTANT]
 > The app works in Windows only due to the deprecation of OpenGL in the OSX build.
-> [^1]: [Zigfu}(https://github.com/zigfu) Framework, a key element to capture and decode motion gestures.
+> [^1]: [Zigfu](https://github.com/zigfu) Framework, a key element to capture and decode motion gestures.
 > [^2]: [Thesis abstract](https://catalogobiblioteca.ufps.edu.co/descargas/tesis/152401.pdf)
 
